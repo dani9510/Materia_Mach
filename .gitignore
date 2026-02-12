@@ -1,0 +1,4 @@
+football-datasets/
+*.csv
+*.zip
+*.ipynb_checkpoints
